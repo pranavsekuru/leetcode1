@@ -19,4 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pranavsekuru/leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/pranavsekuru/leetcode1/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/pranavsekuru/leetcode1/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/pranavsekuru/leetcode1/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
