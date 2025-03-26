@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranavsekuru/leetcode1/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/pranavsekuru/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pranavsekuru/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pranavsekuru/leetcode1/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pranavsekuru/leetcode1/tree/master/0217-contains-duplicate) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranavsekuru/leetcode1/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/pranavsekuru/leetcode1/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranavsekuru/leetcode1/tree/master/1395-minimum-time-visiting-all-points) |
 ## Matrix
