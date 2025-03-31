@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/pranavsekuru/leetcode1/tree/master/0875-longest-mountain-in-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pranavsekuru/leetcode1/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pranavsekuru/leetcode1/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
