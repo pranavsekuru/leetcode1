@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pranavsekuru/leetcode1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pranavsekuru/leetcode1/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/pranavsekuru/leetcode1/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranavsekuru/leetcode1/tree/master/1395-minimum-time-visiting-all-points) |
 ## Matrix
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pranavsekuru/leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/pranavsekuru/leetcode1/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pranavsekuru/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pranavsekuru/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavsekuru/leetcode1/tree/master/0242-valid-anagram) |
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/pranavsekuru/leetcode1/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranavsekuru/leetcode1/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
