@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pranavsekuru/leetcode1/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pranavsekuru/leetcode1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pranavsekuru/leetcode1/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/pranavsekuru/leetcode1/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pranavsekuru/leetcode1/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranavsekuru/leetcode1/tree/master/1395-minimum-time-visiting-all-points) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pranavsekuru/leetcode1/tree/master/0070-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/pranavsekuru/leetcode1/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranavsekuru/leetcode1/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pranavsekuru/leetcode1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
