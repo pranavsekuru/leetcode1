@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pranavsekuru/leetcode1/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/pranavsekuru/leetcode1/tree/master/0338-counting-bits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranavsekuru/leetcode1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pranavsekuru/leetcode1/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/pranavsekuru/leetcode1/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/pranavsekuru/leetcode1/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
 |  |
