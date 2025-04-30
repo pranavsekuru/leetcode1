@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranavsekuru/leetcode1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranavsekuru/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/pranavsekuru/leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranavsekuru/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0875-longest-mountain-in-array](https://github.com/pranavsekuru/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranavsekuru/leetcode1/tree/master/1019-squares-of-a-sorted-array) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranavsekuru/leetcode1/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranavsekuru/leetcode1/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranavsekuru/leetcode1/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
