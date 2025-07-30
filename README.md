@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/pranavsekuru/leetcode1/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranavsekuru/leetcode1/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranavsekuru/leetcode1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pranavsekuru/leetcode1/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/pranavsekuru/leetcode1/tree/master/0800-letter-case-permutation) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Counting Sort
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranavsekuru/leetcode1/tree/master/0219-contains-duplicate-ii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Memoization
 |  |
 | ------- |
