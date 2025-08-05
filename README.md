@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranavsekuru/leetcode1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pranavsekuru/leetcode1/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/pranavsekuru/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pranavsekuru/leetcode1/tree/master/0268-missing-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/pranavsekuru/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/pranavsekuru/leetcode1/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/pranavsekuru/leetcode1/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/pranavsekuru/leetcode1/tree/master/0196-delete-duplicate-emails) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/pranavsekuru/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/pranavsekuru/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/pranavsekuru/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
