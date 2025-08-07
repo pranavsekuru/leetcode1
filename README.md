@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pranavsekuru/leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranavsekuru/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0875-longest-mountain-in-array](https://github.com/pranavsekuru/leetcode1/tree/master/0875-longest-mountain-in-array) |
+| [0940-fruit-into-baskets](https://github.com/pranavsekuru/leetcode1/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranavsekuru/leetcode1/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/pranavsekuru/leetcode1/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranavsekuru/leetcode1/tree/master/1395-minimum-time-visiting-all-points) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pranavsekuru/leetcode1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pranavsekuru/leetcode1/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranavsekuru/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/pranavsekuru/leetcode1/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranavsekuru/leetcode1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranavsekuru/leetcode1/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/pranavsekuru/leetcode1/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pranavsekuru/leetcode1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Memoization
 |  |
